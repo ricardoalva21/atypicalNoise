@@ -8,7 +8,7 @@ const Login = () => {
         Login / Register{" "}
       </Typography>
       <Typography variant="body1">
-        Newslaters, Events, PromoCodes, Foro
+        Newslaters, Events, PromoCodes, Foro,
       </Typography>
     </Box>
   );

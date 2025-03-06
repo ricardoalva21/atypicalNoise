@@ -19,7 +19,7 @@ function App() {
         sx={{
           width: "100vw",
           minHeight: "100vh",
-          overflowX: "hidden", // Evita scroll horizontal
+          overflowX: "hidden",
           display: "flex",
           flexDirection: "column",
           alignItems: "center",
@@ -38,7 +38,7 @@ function App() {
             width: "100vw",
             height: "100vh",
             objectFit: "cover",
-            zIndex: -1, // Se mantiene detrás de todo el contenido
+            zIndex: -1, 
           }}
         >
           <source src="/videos/atypical_sinestesia 01 .mp4" type="video/mp4" />
@@ -53,10 +53,10 @@ function App() {
           sx={{
             flex: 1,
             width: "100%",
-            maxWidth: "1200px", // Limita el ancho en pantallas grandes
-            padding: { xs: 2, md: 4 }, // Padding dinámico según el tamaño de pantalla
-            marginTop: { xs: 8, md: 10 }, // Ajuste de margen superior para diferentes tamaños
-            backgroundColor: "rgba(0, 0, 0, 0.6)", // Opacidad para que se vea el video detrás
+            maxWidth: "1200px",
+            padding: { xs: 2, md: 4 }, 
+            marginTop: { xs: 8, md: 10 }, 
+            backgroundColor: "rgba(0, 0, 0, 0.6)",
             borderRadius: 2,
             minHeight: "80vh",
           }}

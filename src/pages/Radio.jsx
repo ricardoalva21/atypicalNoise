@@ -8,7 +8,7 @@ const Radio = () => {
         Radio
       </Typography>
       <Typography variant="body1">
-        Streaming + Visuals, what else?
+        Streaming 24/7 + Visuals, what else?
       </Typography>
     </Box>
   );

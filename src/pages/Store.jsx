@@ -8,7 +8,7 @@ const Store = () => {
        Store
       </Typography>
       <Typography variant="body1">
-        Working with Sinestesia Record Store.
+        Working with Sinestesia Record Store. 
       </Typography>
     </Box>
   );

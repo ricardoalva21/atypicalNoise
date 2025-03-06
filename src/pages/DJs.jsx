@@ -8,7 +8,7 @@ const DJs = () => {
         Nuestros Residentes
       </Typography>
       <Typography variant="body1">
-        Welcome to our website. Here, you'll find everything about our music and events.
+        Aca irian nuestros Press Kits 
       </Typography>
     </Box>
   );
